@@ -6,11 +6,13 @@ Welcome to the Data Visualization Dashboard repository! This dashboard provides 
 
 Here are some enticing snapshots showcasing the features and functionalities of our visualization dashboard:
 
-![Screenshot 2024-05-11 173242](https://github.com/Tushar77singhal/Dashboard/assets/108344153/3215d481-04f3-46b2-a801-68e65a4e7a7e)
-![bar](https://github.com/Tushar77singhal/Dashboard/assets/108344153/4978ee04-77f6-48c9-b200-a2c8671c26f2)
-![chart](https://github.com/Tushar77singhal/Dashboard/assets/108344153/03dbc646-133f-41f6-b9d0-83e0a54a4809)
-![p](https://github.com/Tushar77singhal/Dashboard/assets/108344153/eb968a2e-ee11-443c-9dbe-f3f07c9a8793)
-![pie](https://github.com/Tushar77singhal/Dashboard/assets/108344153/615ce216-cb56-46fa-8dcc-3393ff51e9e5)
+![Screenshot 2024-05-11 173242](https://github.com/Tushar77singhal/Dashboard/assets/108344153/15a7bc19-c280-4d67-b4f7-bf74d5426144)
+![bar](https://github.com/Tushar77singhal/Dashboard/assets/108344153/5749e2de-8178-4017-ab7b-86815dfdc7cf)
+![pie](https://github.com/Tushar77singhal/Dashboard/assets/108344153/eb1f0950-4efb-49e8-82e9-97034cef1c12)
+![p](https://github.com/Tushar77singhal/Dashboard/assets/108344153/ca469d9e-55f1-4a6f-ab07-8a23318387ed)
+![chart](https://github.com/Tushar77singhal/Dashboard/assets/108344153/70ec92dd-85c0-4616-b25e-6083ef4fe04e)
+
+
 
 ## About
 
