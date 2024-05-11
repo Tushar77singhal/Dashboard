@@ -122,7 +122,7 @@ const AdminDashboard = () => {
                 mr={4}
               />
               <Box>
-                <Heading size="md">Ritesh Kr. Shukla</Heading>
+                <Heading size="md">Tushar Singhal</Heading>
                 <Text
                   fontSize="sm"
                   color={useColorModeValue("gray.500", "gray.400")}

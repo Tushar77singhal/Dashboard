@@ -6,28 +6,11 @@ Welcome to the Data Visualization Dashboard repository! This dashboard provides 
 
 Here are some enticing snapshots showcasing the features and functionalities of our visualization dashboard:
 
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/d30a8648-12d7-41b6-82c6-5ebec4c5268b)
-
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/66fc2062-e850-49c6-ad0c-147e7bd1877e)
-
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/448df45c-b92b-4faf-9784-1dd0c4706ffc)
-
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/0c972e17-8b4f-407f-a3fd-38afeb352127)
-
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/6e620052-f57f-4f93-957c-dc47a45eaedf)
-
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/6f1c69da-ebb0-4059-8614-57fcd818c568)
-
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/f5b957a0-f992-460e-b978-d511eaf488c6)
-
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/27afaa6b-a05f-48e4-9258-f8bcc4788071)
+![Screenshot 2024-05-11 173242](https://github.com/Tushar77singhal/Dashboard/assets/108344153/3215d481-04f3-46b2-a801-68e65a4e7a7e)
+![bar](https://github.com/Tushar77singhal/Dashboard/assets/108344153/4978ee04-77f6-48c9-b200-a2c8671c26f2)
+![chart](https://github.com/Tushar77singhal/Dashboard/assets/108344153/03dbc646-133f-41f6-b9d0-83e0a54a4809)
+![p](https://github.com/Tushar77singhal/Dashboard/assets/108344153/eb968a2e-ee11-443c-9dbe-f3f07c9a8793)
+![pie](https://github.com/Tushar77singhal/Dashboard/assets/108344153/615ce216-cb56-46fa-8dcc-3393ff51e9e5)
 
 ## About
 
@@ -45,7 +28,7 @@ This dashboard leverages the power of the MERN (MongoDB, Express, React, Node.js
 
 To get started with the BlackCoffer Visualization Dashboard:
 
-1. Clone this repository: `git clone https://github.com/RiteshKumarShukla/BlackCoffer-Visualization-Dashboard.git`
+1. Clone this repository: `git clone https://github.com/Tushar77singhal/Dashboard.git`
 2. Navigate to the project directory: `cd BlackCoffer-Visualization-Dashboard`
 3. Install dependencies:
    - Backend: `cd server && npm install`
